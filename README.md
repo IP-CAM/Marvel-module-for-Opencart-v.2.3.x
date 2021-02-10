@@ -1,2 +1,2 @@
 # opencart-marvel-module
-Интеграция opencart с сервисом дистрибьюции marvel.ru
+Integration of opencart with the marvel.ru distribution service 
